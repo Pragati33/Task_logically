@@ -42,7 +42,11 @@ sklearn
 
 ## Execution
 
-1 - Execute the logically_task.ipynb once the data has been loaded successfully
+1 - Execute the logically_final_2.ipynb once the data has been unzipped and loaded into the sample data(If using colab) successfully
 
-2 - The results and the plot, other necessary files will be saved in the working directory.
+2- To execute the script on local machine make sure the data is donwloaded and extracted to the same directroy. You will further required to change the path to your path of locally extracted data file.
+
+3- No need to download data-subsample seperately as the execution will itself create and save a copy to the working directroy
+
+2 - The results and the plot, other necessary files will be saved in the working directory upon execution.
 
